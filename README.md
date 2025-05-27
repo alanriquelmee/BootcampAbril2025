@@ -12,10 +12,17 @@ Ganas si:
 - El ratón llega al queso antes que tú lo atrapes 🧀
 - El ratón escapa de ti, incluso si no ha comido el queso
 
+# Que funciono
+El minimax, funcionaba como queria que funcione y poder elegir yo como usuario manejarle al gato
+
+# MEJOR ajá 
+Lograr que el raton se mueva de forma aleatoria para poder tener una oportunidad contra el mismo
+y luego que utilice el algoritmo de minimax.
+
 ##  Cómo ejecutar el juego
 
 1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
-   ```bash
+   
    python --version
 
 2. Descarga o clona este repositorio
@@ -56,7 +63,7 @@ Ganas si:
 2. Guarda el archivo como ` minimax_lab.py`.
 3. Abre una terminal y ejecuta:
 
-```bash
+
 python --- nombre del archivo
 
 ## Posibles mejoras
@@ -65,5 +72,7 @@ python --- nombre del archivo
 - Mejorar la IA con mayor profundidad en Minimax.
 - Soporte multijugador.
 - Añadir niveles de dificultad.
+
+
 
 
